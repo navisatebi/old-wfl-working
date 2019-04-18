@@ -1,0 +1,16 @@
+{
+  "applicationName": "felix-modified",
+  "contactEmail": "navis@ebi.ac.uk",
+  "about": "Modified by Felix",
+  "version": "0.1",
+  "cloudProviders": [
+    {
+     "cloudProvider": "OSTACK",
+     "path": "ostack",
+     "inputs":[]
+    }
+  ],
+  "inputs": ["PXD"],
+  "deploymentParameters": [],
+  "outputs": ["URL"]
+}
